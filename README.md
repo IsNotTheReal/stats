@@ -35,7 +35,7 @@ Here’s an example of what the generated SVG might look like for a user:
 
 The image will display something like this:
 
-- GitHub Age.
+- GitHub Account Age.
 - Number of public repositories.
 - Number of followers and following.
 
