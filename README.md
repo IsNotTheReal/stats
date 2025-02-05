@@ -10,6 +10,7 @@ This is a simple API that generates dynamic statistics for GitHub users, which y
 ## Features
 
 - Fetch basic statistics such as:
+  - Account age
   - Public repositories
   - Followers
   - Following
